@@ -1,0 +1,8 @@
+[package]
+authors = ["Alexandre Bury <alexandre.bury@gmail.com>"]
+name = "tarzun"
+version = "0.1.0"
+
+[dependencies]
+tar = "0.4.13"
+zstd = "0.4.13"
